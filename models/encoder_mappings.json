@@ -1,0 +1,51 @@
+{
+  "column_categories": {
+    "category": {
+      "categories": [
+        "Aminoácidos",
+        "Creatina",
+        "Creatinas",
+        "Pre-entrenamientos",
+        "Pre-entrenos",
+        "Proteína",
+        "Proteínas",
+        "Suplementos"
+      ]
+    },
+    "brand": {
+      "categories": [
+        "BSN",
+        "Cellucor",
+        "Dymatize",
+        "GNC",
+        "MusclePharm",
+        "MuscleTech",
+        "MyProtein",
+        "Optimum Nutrition",
+        "RSP Nutrition",
+        "Universal Nutrition"
+      ]
+    },
+    "presentation": {
+      "categories": [
+        "120 cápsulas",
+        "1kg",
+        "1l",
+        "250ml",
+        "2lb",
+        "30 porciones",
+        "500g",
+        "5kg",
+        "pack x12",
+        "servicio x1"
+      ]
+    },
+    "status": {
+      "categories": [
+        "LOW_STOCK",
+        "OUT_OF_STOCK",
+        "STOCK"
+      ]
+    }
+  }
+}
